@@ -9,3 +9,6 @@ Currently this mod includes:
 
 The main menu will show other features
 to the mod but they are not yet included.
+
+Downloadable executable files with be made once the mod is completed.
+To play this mod go to https://loyahdev.github.io/ModdyCattle3D
